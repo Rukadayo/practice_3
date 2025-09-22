@@ -1,3 +1,7 @@
 Hello world
+<<<<<<< HEAD
     new line of wook
     branch new line of text
+=======
+    new line of text
+>>>>>>> 160e72c (Hello world.txt 업데이트)
