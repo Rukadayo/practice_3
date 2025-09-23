@@ -1,7 +1,15 @@
 Hello world
 <<<<<<< HEAD
+<<<<<<< HEAD
     new line of text
     brand new line of text
 =======
     new line of wook
 >>>>>>> origin/main
+=======
+    new line of wook
+    branch new line of text
+=======
+    new line of text
+>>>>>>> 160e72c (Hello world.txt 업데이트)
+>>>>>>> origin/wook2-branch

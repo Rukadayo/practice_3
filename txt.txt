@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 txt branch 작업
 
 이상한 작업 추가 수정
+=======
+txt branch 작업
+>>>>>>> origin/wook2-branch
